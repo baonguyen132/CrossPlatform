@@ -9,7 +9,6 @@ import 'package:cross_platform/Tuhoc/TestResponsive/homeMainTest.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:cross_platform/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

@@ -8,13 +8,15 @@ class Lap1 extends StatefulWidget {
 }
 
 class _Lap1State extends State<Lap1> {
+
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
         centerTitle: true,
-        title: Text(
+        title: const Text(
           "I am rich",
           style: TextStyle(
             color: Colors.white,
